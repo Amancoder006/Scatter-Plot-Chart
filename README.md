@@ -1,3 +1,6 @@
+# ScreenShort
+<img width="589" alt="image" src="https://github.com/Amancoder006/Scatter-Plot-Chart/assets/106905153/98506d0a-edc3-4d9a-a8e4-6062cc8e2e9b">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -45,5 +48,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-<img width="589" alt="image" src="https://github.com/Amancoder006/Scatter-Plot-Chart/assets/106905153/98506d0a-edc3-4d9a-a8e4-6062cc8e2e9b">
 
