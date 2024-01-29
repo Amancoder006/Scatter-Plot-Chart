@@ -44,3 +44,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+<img width="589" alt="image" src="https://github.com/Amancoder006/Scatter-Plot-Chart/assets/106905153/98506d0a-edc3-4d9a-a8e4-6062cc8e2e9b">
+
